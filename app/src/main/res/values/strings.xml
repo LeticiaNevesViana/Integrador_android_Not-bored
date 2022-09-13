@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Not Bored</string>
+    <string name="app_title">Not Bored</string>
+    <string name="app_participants">Participants</string>
+    <string name="number_of_participants">Number of participants</string>
+    <string name="button_start">Start</string>
+    <string name="button_terms"><u>Terms and conditions</u></string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="text_terms">Lorem ipsum dolor sit amet consectetur adipiscing elit inceptos ridiculus iaculis, nullam ligula elementum duis tellus maecenas nec fermentum sed dictum laoreet, taciti donec habitant quam purus ultricies porta posuere sociis. Cubilia senectus netus integer tempor dignissim viverra nostra tellus scelerisque aliquet, semper penatibus tempus sociosqu class sociis bibendum justo etiam, rutrum aenean et eget pretium volutpat eu dictum dictumst.Present gravida ridiculus cursus luctus maecenas in libero mi interdum, auctor ullamcorper eget nam eros condimentum litora tristique erat, fusce rhoncus mauris cras aptent non et ultricies. Iaculis porttitor etiam pulvinar proin fringilla ad, sem ornare sociosqu ultrices litora himenaeos egestas, eros laoreet mauris leo porta. Nibh interdum facilisis dapibus magnis phasellus tortor fusce nostra quam, ante non elementum himenaeos id hac et hendrerit eros, dui at sollicitudin turpis viverra molestie cras quis. Dignissim faucibus auctor in vitae porttitor tellus nascetur tempor sociosqu,elementum dis ultricies eu tempus tincidunt lectus posuere, et ac interdum commodo montes convallis curae facilisis. Vitae diam phasellus litora ad aeneanhimenaeos, magnis malesuada nec metus faucibus, turpis mollis hac lacinialacus.Condimentum dis in sed vel molestie integer, gravida eget volutpatinterdum bibendum scelerisque magnis, penatibus non sollicitudin convallisegestas. Aptent mi ligula conubia justo habitant cubilia tellus curabitur, a nisiinteger non eget vivamus cursus hac, lacus rutrum ridiculus tempor litora nostra dis. Nisl pulvinar taciti tellus diam quam dictum cursus potenti euismod natoque feugiat mattis ornare tortor, aliquam orci dapibus inceptos id egestas ante viverra donec aptent suscipit nulla. Eget nisl fringilla cras felis maecenas nisi ridiculus id conubia hac primis sem ullamcorper porttitor, rutrum ac sodales ultrices vestibulum cum leo semper fusce porta eu fermentum. Proin nisi suspendisse class facilisi curabitur quisque, fusce vulputate semper a nulla velit, duis in orci faucibus turpis. Risus metus magnis aliquam accumsan laoreet congue per,Nisl pulvinar taciti tellus diam quam dictum cursus potenti euismod natoque feugiat mattis ornare tortor, aliquam orci dapibus inceptos id egestas ante viverra donec aptent suscipit nulla. Eget nisl fringilla cras felis maecenas nisi ridiculus id conubia hac primis sem ullamcorper porttitor, rutrum ac sodales ultrices vestibulum cum leo semper fusce porta eu fermentum. Proin nisi suspendisse class facilisi curabitur quisque, fusce vulputate semper a nulla velit, duis in orci faucibus turpis. Risus metus magnis aliquam accumsan laoreet congue per,.</string>
+    <string name="page_activities">Activities</string>
+    <string name="activity_title">Activity Title</string>
+    <string name="random_title">Random</string>
+    <string name="activity_description">Activity Description</string>
+    <string name="participants_holder">Participants</string>
+    <string name="price">Price</string>
+    <string name="try_another">Try Another</string>
+    <string name="price_level">Medium</string>
+    <string name="number_partcipants">0</string>
+    <string name="back_button">back button</string>
+    <string name="icon_participants">icon_participants</string>
+    <string name="icon_price">icon_price</string>
+    <string name="icon_category">icon_category</string>
+    <string name="category">Category</string>
+    <string name="random_button">random_button</string>
+    <string name="item">Item</string>
+
+</resources>
